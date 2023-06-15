@@ -7,4 +7,6 @@ This repository contains 3 files:
 - TOC that perists in the top left corner of html file
 - tabulations for subtitles of part 2. in the html procuced file
 
-2 and 3. Corresponding `.md` and `.html` produced files are present
+Corresponding produced files:
+2. `.md`
+3. `.html`
